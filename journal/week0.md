@@ -114,3 +114,7 @@ aws budgets create-budget \
     --budget file://aws/json/budget.json \
     --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
 ```
+
+## Creating an architectural design 
+
+![cruddur-architectural-diagram](https://github.com/labanshiks/aws-bootcamp-cruddur-2023/assets/53309698/3f713e25-72b0-43a1-a2a3-12dca14847f0)
